@@ -1,0 +1,4 @@
+Any computer system in today’s world generates a very high amount of logs or data daily. As the system grows,
+it is not feasible to store the debugging data into a database, as they’ve are immutable and it’s only going to
+be used for analytics and fault resolution purposes. So organisations tend to store it in files, which resides in
+local disks storage.
